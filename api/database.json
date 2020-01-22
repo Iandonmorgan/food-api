@@ -1,0 +1,60 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "pizza",
+      "category": "bread",
+      "ethnicity": "italian",
+      "barcode": "3270160717668"
+    },
+    {
+      "id": 2,
+      "name": "rice bowl",
+      "category": "vegan",
+      "ethnicity": "asian",
+      "barcode": "7640104172734"
+    },
+    {
+      "id": 3,
+      "name": "gyro pita",
+      "category": "sandwich",
+      "ethnicity": "mediterranean",
+      "barcode": "0075365060259"
+    },
+    {
+      "id": 4,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8076809523509"
+    },
+    {
+      "id": 5,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "0016229918378"
+    },
+    {
+      "id": 6,
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "5021047104419"
+    },
+    {
+      "id": 7,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8001665127585"
+    },
+    {
+      "name": "Sausage Biscuit",
+      "category": "junk food",
+      "ethnicity": "American",
+      "id": 13,
+      "barcode": "0077900502095"
+    }
+  ]
+}
